@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Full Stack Developer with strong expertise in Laravel & backend systems<br>🏗️ Passionate about scalable architecture & system design<br>👨‍🏫 Former Faculty Member (Full Stack Development - Aptech)<br>🚀 Senior Laravel Developer & Co-Founder @ The Kunuz</p>
+<p align="left">💻 Full Stack Developer with strong expertise in Laravel & backend systems<br>🏗️ Passionate about scalable architecture & system design<br>👨‍🏫 Former Faculty Member (Full Stack Development - Aptech)<br>🚀 Senior Laravel Developer & Founder @TheProvidersOfficial</p>
 
 ###
 
