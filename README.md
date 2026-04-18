@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Full Stack Developer with strong expertise in Laravel & backend systems<br>🏗️ Passionate about scalable architecture & system design<br>👨‍🏫 Former Faculty Member (Full Stack Development - Aptech)<br>🚀 Senior Laravel Developer & Founder @TheProvidersOfficial</p>
+<p align="left">Full Stack Developer with strong expertise in Laravel & backend systems<br>Passionate about scalable architecture & system design<br>Former Faculty Member (Full Stack Development - Aptech)<br>Senior Laravel Developer & Founder @TheProvidersOfficial</p>
 
 ###
 
@@ -62,15 +62,15 @@
 
 ###
 
-<h2 align="left">🚀 Projects</h2>
+<h2 align="left">Projects</h2>
 
 ###
 
-<p align="left">🌐 The Providers<br>👉 https://theproviders.tech/<br>🌐 Portfolio<br>👉https://www.luxurybeyondmoments.com/<br>🌐 Portfolio<br>👉 https://muhammadfarhan.online/<br><br>🛒 The Kunuz (E-Commerce)<br>👉 https://www.thekunuz.com/<br><br>💳 Secure Pay (Microservices + Blockchain FYP)</p>
+<p align="left">The Providers<br>https://theproviders.tech/<br>Portfolio<br>https://www.luxurybeyondmoments.com/<br>Portfolio<br>https://muhammadfarhan.online/<br><br>The Kunuz (E-Commerce)<br>https://www.thekunuz.com/<br><br>Secure Pay (Microservices + Blockchain FYP)</p>
 
 ###
 
-<h2 align="left">🌐 Connect With Me</h2>
+<h2 align="left">Connect With Me</h2>
 
 ###
 
